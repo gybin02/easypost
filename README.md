@@ -159,6 +159,18 @@ easypost fill --input task.json
 
 ---
 
+## 💬 交流与社群
+
+欢迎加入 **EasyPost 官方交流群**，第一时间获取各大平台接口适配动态、Agent Skill 使用技巧与矩阵防风控指南：
+
+<div align="center">
+  <img src="./assets/feishu-group.png" width="220" alt="EasyPost 官方交流群"/>
+  <br/>
+  <sub>扫码加入官方交流群（交流自媒体多平台分发与 AI 自动化）</sub>
+</div>
+
+---
+
 ## 🤝 贡献与社区
 
 欢迎提交 Issue 和 Pull Request！
